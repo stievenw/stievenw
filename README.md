@@ -7,7 +7,6 @@ I sometimes create small projects to practice and understand new concepts better
 
 ## About Me
 - Learning independently  
-- Interested in technology and design  
 - Focused on steady progress and understanding the basics
 
 ---
