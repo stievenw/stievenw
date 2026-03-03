@@ -21,4 +21,4 @@ I sometimes create small projects to practice and understand new concepts better
 
 ---
 
-*"Sedikit-sedikit lama-lama jadi bug… eh, maksudnya jadi bisa."*
+*"Spesialis rebahan produktif."*
