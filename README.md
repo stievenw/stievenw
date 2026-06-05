@@ -1,16 +1,5 @@
 # Hi, I'm Stieven
 
-I'm currently learning programming and like exploring how things work.  
-I sometimes create small projects to practice and understand new concepts better.
-
----
-
-## About Me
-- Learning independently  
-- Focused on steady progress and understanding the basics
-
----
-
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/stievenw)
